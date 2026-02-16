@@ -130,3 +130,10 @@ This dashboard transforms 9,994 transaction records (2014-2017) into actionable 
 └── README.md
 ```
 ---
+
+## 👤 Author
+
+**Crystal Achieng**
+- LinkedIn: [LinkedIn](www.linkedin.com/in/crystalachieng)
+
+
